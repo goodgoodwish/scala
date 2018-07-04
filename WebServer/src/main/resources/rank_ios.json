@@ -1,0 +1,2868 @@
+{
+  "update_time": {
+    "BE": "2018-06-26 23:00:00",
+    "BF": "2018-06-25 23:00:00",
+    "BG": "2018-06-26 23:00:00",
+    "BB": "2018-06-25 23:00:00",
+    "BM": "2018-06-25 23:00:00",
+    "BN": "2018-06-26 23:00:00",
+    "BO": "2018-06-25 23:00:00",
+    "JP": "2018-06-26 23:00:00",
+    "BJ": "2018-06-25 23:00:00",
+    "BT": "2018-06-26 23:00:00",
+    "JM": "2018-06-25 23:00:00",
+    "JO": "2018-06-26 23:00:00",
+    "BR": "2018-06-25 23:00:00",
+    "BS": "2018-06-25 23:00:00",
+    "BY": "2018-06-26 23:00:00",
+    "BZ": "2018-06-25 23:00:00",
+    "RU": "2018-06-26 23:00:00",
+    "LU": "2018-06-26 23:00:00",
+    "TJ": "2018-06-26 23:00:00",
+    "RO": "2018-06-26 23:00:00",
+    "GW": "2018-06-25 23:00:00",
+    "GT": "2018-06-25 23:00:00",
+    "GR": "2018-06-26 23:00:00",
+    "BH": "2018-06-26 23:00:00",
+    "GY": "2018-06-25 23:00:00",
+    "GD": "2018-06-25 23:00:00",
+    "GB": "2018-06-25 23:00:00",
+    "GM": "2018-06-25 23:00:00",
+    "GH": "2018-06-25 23:00:00",
+    "OM": "2018-06-26 23:00:00",
+    "TN": "2018-06-25 23:00:00",
+    "BW": "2018-06-26 23:00:00",
+    "HR": "2018-06-26 23:00:00",
+    "HU": "2018-06-26 23:00:00",
+    "HK": "2018-06-26 23:00:00",
+    "HN": "2018-06-25 23:00:00",
+    "PW": "2018-06-26 23:00:00",
+    "PT": "2018-06-25 23:00:00",
+    "KN": "2018-06-25 23:00:00",
+    "PY": "2018-06-25 23:00:00",
+    "PA": "2018-06-25 23:00:00",
+    "PG": "2018-06-26 23:00:00",
+    "PE": "2018-06-25 23:00:00",
+    "PK": "2018-06-26 23:00:00",
+    "PH": "2018-06-26 23:00:00",
+    "PL": "2018-06-26 23:00:00",
+    "EE": "2018-06-26 23:00:00",
+    "EG": "2018-06-26 23:00:00",
+    "ZA": "2018-06-26 23:00:00",
+    "EC": "2018-06-25 23:00:00",
+    "IT": "2018-06-26 23:00:00",
+    "AO": "2018-06-25 23:00:00",
+    "SB": "2018-06-26 23:00:00",
+    "ZW": "2018-06-26 23:00:00",
+    "KY": "2018-06-25 23:00:00",
+    "ES": "2018-06-26 23:00:00",
+    "MD": "2018-06-26 23:00:00",
+    "MG": "2018-06-26 23:00:00",
+    "UY": "2018-06-25 23:00:00",
+    "UZ": "2018-06-26 23:00:00",
+    "ML": "2018-06-25 23:00:00",
+    "MO": "2018-06-26 23:00:00",
+    "MN": "2018-06-26 23:00:00",
+    "MK": "2018-06-26 23:00:00",
+    "MU": "2018-06-26 23:00:00",
+    "MT": "2018-06-26 23:00:00",
+    "MW": "2018-06-26 23:00:00",
+    "MS": "2018-06-25 23:00:00",
+    "MR": "2018-06-25 23:00:00",
+    "UG": "2018-06-26 23:00:00",
+    "MY": "2018-06-26 23:00:00",
+    "MX": "2018-06-25 23:00:00",
+    "AT": "2018-06-26 23:00:00",
+    "FR": "2018-06-26 23:00:00",
+    "FI": "2018-06-26 23:00:00",
+    "FJ": "2018-06-26 23:00:00",
+    "FM": "2018-06-26 23:00:00",
+    "NI": "2018-06-25 23:00:00",
+    "NL": "2018-06-26 23:00:00",
+    "NO": "2018-06-26 23:00:00",
+    "NA": "2018-06-25 23:00:00",
+    "NE": "2018-06-25 23:00:00",
+    "NG": "2018-06-25 23:00:00",
+    "NZ": "2018-06-26 23:00:00",
+    "NP": "2018-06-26 23:00:00",
+    "CH": "2018-06-26 23:00:00",
+    "CO": "2018-06-25 23:00:00",
+    "CN": "2018-06-26 23:00:00",
+    "CL": "2018-06-25 23:00:00",
+    "CA": "2018-06-25 23:00:00",
+    "CG": "2018-06-25 23:00:00",
+    "CZ": "2018-06-26 23:00:00",
+    "CY": "2018-06-26 23:00:00",
+    "CR": "2018-06-25 23:00:00",
+    "CV": "2018-06-25 23:00:00",
+    "SZ": "2018-06-26 23:00:00",
+    "KG": "2018-06-26 23:00:00",
+    "KE": "2018-06-26 23:00:00",
+    "SR": "2018-06-25 23:00:00",
+    "KH": "2018-06-26 23:00:00",
+    "SV": "2018-06-25 23:00:00",
+    "ST": "2018-06-25 23:00:00",
+    "SK": "2018-06-26 23:00:00",
+    "KR": "2018-06-26 23:00:00",
+    "SI": "2018-06-26 23:00:00",
+    "KW": "2018-06-26 23:00:00",
+    "SN": "2018-06-25 23:00:00",
+    "SL": "2018-06-25 23:00:00",
+    "SC": "2018-06-26 23:00:00",
+    "KZ": "2018-06-26 23:00:00",
+    "SA": "2018-06-26 23:00:00",
+    "SG": "2018-06-26 23:00:00",
+    "SE": "2018-06-26 23:00:00",
+    "DO": "2018-06-25 23:00:00",
+    "DM": "2018-06-25 23:00:00",
+    "DK": "2018-06-26 23:00:00",
+    "DE": "2018-06-26 23:00:00",
+    "YE": "2018-06-26 23:00:00",
+    "DZ": "2018-06-25 23:00:00",
+    "US": "2018-06-25 23:00:00",
+    "LB": "2018-06-26 23:00:00",
+    "LC": "2018-06-25 23:00:00",
+    "LA": "2018-06-26 23:00:00",
+    "TW": "2018-06-26 23:00:00",
+    "TT": "2018-06-25 23:00:00",
+    "TR": "2018-06-26 23:00:00",
+    "LK": "2018-06-26 23:00:00",
+    "LV": "2018-06-26 23:00:00",
+    "LT": "2018-06-26 23:00:00",
+    "TM": "2018-06-26 23:00:00",
+    "LR": "2018-06-25 23:00:00",
+    "TH": "2018-06-26 23:00:00",
+    "TD": "2018-06-25 23:00:00",
+    "TC": "2018-06-25 23:00:00",
+    "VC": "2018-06-25 23:00:00",
+    "AE": "2018-06-26 23:00:00",
+    "VE": "2018-06-25 23:00:00",
+    "AG": "2018-06-25 23:00:00",
+    "VG": "2018-06-25 23:00:00",
+    "AI": "2018-06-25 23:00:00",
+    "IS": "2018-06-25 23:00:00",
+    "AM": "2018-06-26 23:00:00",
+    "AL": "2018-06-26 23:00:00",
+    "VN": "2018-06-26 23:00:00",
+    "AR": "2018-06-25 23:00:00",
+    "AU": "2018-06-26 23:00:00",
+    "IL": "2018-06-26 23:00:00",
+    "IN": "2018-06-26 23:00:00",
+    "TZ": "2018-06-26 23:00:00",
+    "AZ": "2018-06-26 23:00:00",
+    "IE": "2018-06-25 23:00:00",
+    "ID": "2018-06-26 23:00:00",
+    "UA": "2018-06-26 23:00:00",
+    "QA": "2018-06-26 23:00:00",
+    "MZ": "2018-06-26 23:00:00"
+  },
+  "code": 200,
+  "prev_page": null,
+  "page_num": 1,
+  "next_page": null,
+  "product_ranks": [
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 257
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 667
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 821
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 360
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "LA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 807
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "LA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 802
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "EC",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 630
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "EC",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 877
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "DO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 583
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "DO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 739
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 103
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 705
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 882
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 136
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 341
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 634
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 945
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 460
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "VE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 884
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "VE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1121
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 834
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1017
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "GT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 180
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "GT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 485
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "GT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 682
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "GT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 229
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "PE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 728
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "PE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 869
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SV",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 853
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SV",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 640
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 805
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 552
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "TN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 970
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 630
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 903
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1000
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 592
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 666
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BS",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 426
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BS",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 541
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MD",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1461
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MD",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1239
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 961
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1124
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 323
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 427
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "LT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 637
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "LT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 795
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 88
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 665
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 749
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 119
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BW",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 371
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BW",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 584
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AM",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1361
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AM",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1121
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 506
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 776
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "TR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1040
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "TR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 602
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1265
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 825
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "HU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 578
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "HU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 719
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "JO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 604
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "JO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 846
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "NP",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1137
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "NP",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 897
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "PA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 659
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "PA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 718
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "LK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1291
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "RO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 749
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "RO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 755
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "LB",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 649
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "LB",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 921
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 626
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 702
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 404
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 586
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "HR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 130
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "HR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 704
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "HR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 886
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "HR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 177
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "KW",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1135
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "IL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 551
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "IL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 702
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "IL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 877
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "IL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 697
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TW",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 469
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TW",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1310
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "TW",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 532
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SI",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 684
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SI",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 827
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "QA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 592
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "QA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 987
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "KE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 927
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "KE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1256
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1009
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 713
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 267
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 62
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 70
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 354
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games",
+      "country": "CY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1248
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 570
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 612
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 803
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 871
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TC",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 434
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "TC",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 632
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "GY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 790
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "GY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 738
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 545
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "TT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 599
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "IS",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 479
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "IS",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 717
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "KY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 890
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "KY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 794
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MX",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 344
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MX",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 753
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MX",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 892
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MX",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 390
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BB",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 432
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BB",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 647
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 669
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 988
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BM",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 63
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BM",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 478
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BM",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 516
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BM",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 74
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games",
+      "country": "BM",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1020
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "JP",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 712
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "JP",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 593
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "HK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 841
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "HK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1075
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 380
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 773
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 890
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 402
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "NZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 533
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "NZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 625
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "NZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 749
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "NZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 616
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "LC",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 774
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "LC",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 633
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "IN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 783
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "IN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1029
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 395
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1067
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1186
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 437
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1073
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 892
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "TJ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1477
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TJ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1252
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "ZW",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1090
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "ZW",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1298
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1315
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "PL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 912
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "PL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1200
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "TZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1199
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 708
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1054
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1022
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BJ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 501
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BJ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 343
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "KH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1042
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "KH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 996
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 351
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1077
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1091
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 398
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "ZA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 452
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "ZA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 644
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "ZA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 766
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "ZA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 505
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 493
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "TH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1371
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "TH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 586
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "PH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 178
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "PH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 823
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "PH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 904
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "PH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 191
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "PK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1045
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "PK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1399
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "ID",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1418
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "ID",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1127
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 392
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 863
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1126
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 519
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 209
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 569
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 795
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 284
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "FI",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 554
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "FI",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 838
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "FI",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1107
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "FI",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 818
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "US",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 68
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "US",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 128
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "US",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 149
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games",
+      "country": "US",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 479
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall",
+      "country": "US",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 925
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "US",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 69
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "FR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 314
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "FR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1223
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "FR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 396
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "DE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 264
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "DE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1184
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "DE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 358
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "GR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 623
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "GR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 809
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "IE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 239
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "IE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 696
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "IE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 879
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "IE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 287
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1302
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1153
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "UZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1436
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "UZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1018
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "AO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 864
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "AO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1262
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "DZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1327
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "DZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 885
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 88
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "BN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 391
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 498
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "BN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 119
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1416
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 627
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 444
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1009
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MR",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 760
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "NA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 589
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "NA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 898
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SC",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 752
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SC",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 507
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "PT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 456
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "PT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 504
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "PT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 750
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "PT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 646
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "NL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 212
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "NL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 741
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "NL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 922
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "NL",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 257
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "LU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 319
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "LU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 451
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "LU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 619
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "LU",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 390
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "IT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 271
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "IT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1326
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "IT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1460
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "IT",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 324
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "NO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 261
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "NO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 570
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "NO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 793
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "NO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 305
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 267
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "SE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 784
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1022
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "SE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 347
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 208
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 135
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 150
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CA",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 239
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "ES",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 108
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "ES",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 910
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "ES",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1288
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "ES",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 140
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 250
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "CH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 864
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1124
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "CH",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 305
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "DK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 153
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "DK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 228
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "DK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 316
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "DK",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 180
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "EE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 714
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "EE",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 933
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "LV",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 989
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "LV",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 876
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "PY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1049
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "PY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 850
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "HN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 906
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "HN",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1194
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "JM",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 493
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "JM",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 622
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "EG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 120
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "EG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 573
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "EG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 929
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "EG",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 182
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "KZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1493
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "KZ",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1382
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "UY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 240
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "UY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 463
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "UY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 604
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "UY",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 296
+      },
+      "feed": "grossing"
+    },
+    {
+      "category": "Overall > Games > Casino",
+      "country": "MO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 982
+      },
+      "feed": "free"
+    },
+    {
+      "category": "Overall > Games > Card",
+      "country": "MO",
+      "interval": "daily",
+      "ranks": {
+        "2018-05-02": 1145
+      },
+      "feed": "free"
+    }
+  ],
+  "page_index": 0,
+  "device": "iphone",
+  "product_name": "Slingo Arcade - Bingo & Slots"
+}
