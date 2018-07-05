@@ -21,14 +21,25 @@ object Web extends App {
         complete(HttpEntity(ContentTypes.`text/html(UTF-8)`, "<h1>Say hello to akka-http. Yi </h1>"))
       }
     } ~
-    path("") {  // matches (/) root,
-      complete(HttpEntity(ContentTypes.`text/html(UTF-8)`,"<h1>Welcome to akka-http. - Yi </h1>"))
-    } ~
-    path("ios") {
-      complete(ReturnData.ios)
+    // path("") {  // matches (/) root,
+    //   complete(HttpEntity(ContentTypes.`text/html(UTF-8)`,"<h1>Welcome to akka-http. - Yi </h1>"))
+    // } ~
+    path("ios") { ctx =>
+      println("get headers, Explicitly accessing RequestContext: ")
+      println(ctx.request.headers)
+      ctx.complete(ReturnData.ios)
     } ~
     path("gp") {
-      complete(ReturnData.gp)
+      extractRequest { request =>
+        println("get headers, Using extractRequest directive: ")
+        println(request.headers)
+        complete(ReturnData.gp)
+      }
+    } ~
+    pathSingleSlash {
+        complete {
+          "Captain on the bridge!"
+        }
     }
 
   import akka.http.scaladsl.model.HttpMethods._

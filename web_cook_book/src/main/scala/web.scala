@@ -2,10 +2,12 @@ package web
 
 import scala.concurrent.{Future, Await}
 import scala.util.{Try, Success, Failure}
+import ujson.Js
 
 object Web extends App {
   println("start demo")
-  println(WebService.getDataAkkaHTTP)
+  WebService.akkaClient
+  // println(WebService.getDataAkkaHTTP)
   // WebService.getDataApache
   // DBService.queryUser
 }
@@ -14,13 +16,40 @@ case class User(username: String, friends: Int, enemies: Int, isAlive: Boolean)
 
 object WebService {
 
-  import ujson.Js
-
   import akka.actor.ActorSystem
   import akka.http.scaladsl.Http
   import akka.http.scaladsl.model._
   import akka.stream.ActorMaterializer
   import akka.util.ByteString
+  import HttpMethods._  // GET   HEAD   OPTIONS   PATCH   POST   PUT ...
+  import akka.http.scaladsl.model.headers.RawHeader
+
+  def akkaClient: Unit = {
+    implicit val system = ActorSystem()
+    implicit val materializer = ActorMaterializer()
+    implicit val executionContext = system.dispatcher
+
+    val responseFuture: Future[HttpResponse] = Http().singleRequest(
+      HttpRequest(GET, uri = "http://localhost:8080/gp")
+        .withHeaders(  // set header 
+          RawHeader("token1","============="),
+          RawHeader("APIKEY", "token2============")
+        )
+    )
+
+    // val responseFuture_simple: Future[HttpResponse] = Http().singleRequest(
+    //   HttpRequest(uri = "http://akka.io")
+    // )
+
+    responseFuture
+      .onComplete {
+        case Success(res) => {
+          println(res)
+          system.terminate()
+        }
+        case Failure(_)   => sys.error("something wrong")
+      }
+  }
 
   def getDataAkkaHTTP: Unit = {
 
@@ -32,11 +61,16 @@ object WebService {
     val url = "http://localhost:8080/gp"
     val responseFuture: Future[HttpResponse] = Http().singleRequest(HttpRequest(uri = url))
 
+    // Set header
+    // https://stackoverflow.com/questions/39444009/akka-http-client-custom-headers
+
     // Future-Based Variant,
     responseFuture.onComplete {
       case Success(result) => {
         val HttpResponse(statusCodes, headers, entity, _) = result
-        entity.dataBytes.runFold(ByteString(""))(_ ++ _).foreach (body => println("body class: ", body.utf8String.getClass))
+        entity.dataBytes.runFold(ByteString(""))(_ ++ _).foreach { body => 
+          println("body class: ", body.utf8String.getClass)
+        }
         val contentF = entity.dataBytes.runFold(ByteString(""))(_ ++ _).map(_.utf8String)
         contentF.onComplete {
           case Success(res) => {
