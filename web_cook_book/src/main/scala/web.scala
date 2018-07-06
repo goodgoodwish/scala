@@ -93,13 +93,15 @@ object DBService {
   }
 
   def dbRun(strData:String): Unit = {
-    // val db = connectDB
-    Control.using(connectDB){ 
-      db => {
-        addRank(db, strData)
-        queryRank(db)
-      }
-    }
+    val db = connectDB
+    addRank(db, strData)
+    queryRank(db)
+    // Control.using(connectDB){ 
+    //   db => {
+    //     addRank(db, strData)
+    //     queryRank(db)
+    //   }
+    // }
   }
 
   def connectDB:slick.jdbc.PostgresProfile.backend.DatabaseDef = {
@@ -158,14 +160,28 @@ object DBService {
     val q1 = for {
       r <- rank
     } yield (r.rank_date, r.rank_num)
+    val a = q1.result
+    // val f: Future[Seq[(Date, Int)]] = db.run(a)
 
-    val rank_stream = db.stream(q1.result)
+    val p:slick.basic.DatabasePublisher[(java.sql.Date, Int)] = db.stream(a)
 
-    rank_stream.foreach{
+    p.foreach{
       case(rank_date, rank_num) => println("for stream:", rank_date, rank_num)
     }
 
-    // Todo: close db, after stream finish.
+    // clean up, close db, after stream finish.
+    // book, http://books.underscore.io/essential-slick/essential-slick-3.html#andfinally-and-cleanup
+    val action = a.cleanUp {
+      case Some(err) => {
+        print(err)
+        db.close
+        DBIO.successful(0)
+      }
+      case None => {
+        db.close
+        DBIO.successful(0)
+      }
+    }
 
   }
 
